@@ -91,6 +91,9 @@
 **Статус:** ✅ PASS  
 **Комментарий:** Desktop-режим успешно активирован.
 
+<img width="1080" height="739" alt="image" src="https://github.com/user-attachments/assets/fe4af020-ac8f-45e3-985c-984a8ba0fd82" />
+<img width="1080" height="255" alt="image" src="https://github.com/user-attachments/assets/8ee763cc-01e8-4a9b-b0b9-7ff9c69d1d0b" />
+
 ---
 
 ### Шаг 6: Возврат на главный экран
