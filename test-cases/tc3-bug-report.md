@@ -67,13 +67,6 @@
 - Ожидалось: Английская страница + предложение перевода
 + Получилось: Автоматический перевод + расширенный UI управления
 
----
-
-<img width="485" height="1079" alt="image" src="https://github.com/user-attachments/assets/700d23a4-12f3-4ac5-87cf-59ed08ef9644" />
-<img width="497" height="276" alt="image" src="https://github.com/user-attachments/assets/8294ce56-a854-4f66-a1dc-c456742012e2" />
-<img width="974" height="302" alt="image" src="https://github.com/user-attachments/assets/6ec1d69a-1b4f-44fa-8b2f-5b9a837c72dc" />
-<img width="403" height="897" alt="image" src="https://github.com/user-attachments/assets/17e138e3-5c65-4358-8552-816e2ee1d578" />
-<img width="404" height="898" alt="image" src="https://github.com/user-attachments/assets/429b2500-cc22-4773-b71b-1167629265e0" />
 
 
 
