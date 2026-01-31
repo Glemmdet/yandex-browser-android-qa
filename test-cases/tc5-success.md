@@ -174,7 +174,8 @@
 **Статус:** ✅ PASS  
 **Комментарий:** Функционал смены фона работает полностью.
 
----
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/25fedb45-c8bd-420d-beb8-a79d1aba015f" />
+
 
 
 
