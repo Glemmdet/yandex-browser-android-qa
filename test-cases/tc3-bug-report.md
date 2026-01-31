@@ -65,6 +65,7 @@
 ---
 <img width="485" height="1079" alt="image" src="https://github.com/user-attachments/assets/f60a1cb2-16a1-40db-9c35-0347d67ebb77" />
 <img width="497" height="276" alt="image" src="https://github.com/user-attachments/assets/172ab171-a3ff-432d-91dd-c9fed529f8e4" />
+
 ---
 
 ### Шаг 4: Ожидание 4-5 секунд (РАСХОЖДЕНИЕ)
@@ -86,6 +87,7 @@
 
 ---
 <img width="974" height="302" alt="image" src="https://github.com/user-attachments/assets/b6b562f1-b67e-417e-b7fe-2b4835465204" />
+
 ---
 
 ### Шаг 5: Взаимодействие с переводом (РАСХОЖДЕНИЕ)
