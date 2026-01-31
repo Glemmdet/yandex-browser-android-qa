@@ -138,5 +138,7 @@
 **Статус:** ✅ PASS  
 **Комментарий:** Интеграция с Google работает корректно.
 
+---
+
 <img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/4aa96583-eeb1-4e88-af50-0a7f55115427" />
 
