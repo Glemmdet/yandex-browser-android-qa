@@ -63,6 +63,9 @@
 **Статус:** ❌ FAIL (изменение поведения)
 
 ---
+<img width="485" height="1079" alt="image" src="https://github.com/user-attachments/assets/f60a1cb2-16a1-40db-9c35-0347d67ebb77" />
+<img width="497" height="276" alt="image" src="https://github.com/user-attachments/assets/172ab171-a3ff-432d-91dd-c9fed529f8e4" />
+---
 
 ### Шаг 4: Ожидание 4-5 секунд (РАСХОЖДЕНИЕ)
 **Действие:** Подождать 4-5 секунд после загрузки страницы
@@ -82,6 +85,8 @@
 **Статус:** ❌ FAIL (изменение поведения)
 
 ---
+<img width="974" height="302" alt="image" src="https://github.com/user-attachments/assets/b6b562f1-b67e-417e-b7fe-2b4835465204" />
+---
 
 ### Шаг 5: Взаимодействие с переводом (РАСХОЖДЕНИЕ)
 **Действие:** Тапнуть на фаб предложения о переводе
@@ -97,6 +102,9 @@
 
 Статус: ❌ FAIL
 Комментарий: Функционал был изменен.
+
+<img width="403" height="897" alt="image" src="https://github.com/user-attachments/assets/0d67a0c9-51a8-4eed-9847-b6ee4b2dfd02" />
+<img width="404" height="898" alt="image" src="https://github.com/user-attachments/assets/a6202ce1-9dd5-4985-8c5a-d27bc07f3aa7" />
 
 
 
