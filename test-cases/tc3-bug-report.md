@@ -100,8 +100,8 @@
 2. ❌ Панель настройки перевода скрывается
 3. ✅ При нажатии на иконку перевода надписей на картинках, на изображении происходит поиск текста
 
-Статус: ❌ FAIL
-Комментарий: Функционал был изменен.
+**Статус:** ❌ FAIL  
+**Комментарий:** Функционал был изменен.
 
 <img width="403" height="897" alt="image" src="https://github.com/user-attachments/assets/0d67a0c9-51a8-4eed-9847-b6ee4b2dfd02" />
 <img width="404" height="898" alt="image" src="https://github.com/user-attachments/assets/a6202ce1-9dd5-4985-8c5a-d27bc07f3aa7" />
